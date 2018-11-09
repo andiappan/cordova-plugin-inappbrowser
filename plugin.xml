@@ -20,13 +20,13 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
            id="cordova-plugin-inappbrowser"
-      version="3.1.0-dev">
+      version="3.1.0">
 
     <name>InAppBrowser</name>
     <description>Cordova InAppBrowser Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,in,app,browser,inappbrowser</keywords>
-    <repo>https://git-wip-us.apache.org/repos/asf/cordova-plugin-inappbrowser.git</repo>
+    <repo>https://github.com/andiappan/cordova-plugin-inappbrowser</repo>
     <issue>https://issues.apache.org/jira/browse/CB/component/12320641</issue>
 
     <engines>
