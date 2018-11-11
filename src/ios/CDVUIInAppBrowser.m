@@ -922,12 +922,12 @@ static CDVUIInAppBrowser* instance = nil;
 
 - (void)goBack:(id)sender
 {
-    [self.webView goBack];
+    
 }
 
 - (void)goForward:(id)sender
 {
-    [self.webView goForward];
+    
 }
 
 - (void)viewWillAppear:(BOOL)animated
