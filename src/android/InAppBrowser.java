@@ -757,7 +757,7 @@ public class InAppBrowser extends CordovaPlugin {
                         closeDialog();
                     }
                 });
-				_close.setVisibility(View.GONE);
+				//_close.setVisibility(View.GONE);
 
                 return _close;
             }
